@@ -1,0 +1,2 @@
+# JustCoding
+Developing the Tic-Tac-Toe game allowed me to refine core programming concepts such as loops, conditionals, and error handling. It also challenged my algorithmic thinking by requiring the implementation of logic to manage turns, determine the winner, and handle tie scenarios. By structuring the code with modular functions like print_board() and check_winner(), I improved both maintainability and readability. Additionally, incorporating user input validation and interaction helped enhance the overall reliability of the game.
